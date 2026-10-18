@@ -19,12 +19,11 @@ Sophomore AIML Student building applications that solve real-world problems and 
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=DineshramG333&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" />
 </p>
 <p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=DineshramG333&theme=radical&hide_border=true" alt="GitHub Streak" />
+  <img align="center" src="https://streak-stats.demolab.com/?user=DineshramG333&theme=radical&hide_border=true" alt="GitHub Streak" />
 </p>
 
 ---
 
 ### 🌐 Connect with Me
-- LinkedIn: [LinkedIn Profile](https://linkedin.com)
-- Leetcode: [Leetcode](https://leetcode.com)
-
+- LinkedIn: [LinkedIn Profile](in/dineshram-g-mlstudent)
+- Leetcode: [Leetcode](https://leetcode.com/u/DINESHRAM_G/)
