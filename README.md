@@ -1,29 +1,27 @@
-# Hi there 👋, I'm Dineshram G
+# 👋 Hello, I'm Dineshram G
 
-<img align="right" src="https://komarev.com/ghpvc/?username=DineshramG333&color=blueviolet&style=flat-square" alt="Profile views" />
-
-Sophomore AIML Student building applications that solve real-world problems and exploring new technologies.
-
----
-
-### 🚀 About Me
-- 🌱 Currently learning **Full Stack & Data Analysis**
-- 💬 Ask me about anything tech or AI-related
-- ⚡ Always curious, always building
+<h3 align="center">
+  Sophomore AIML Student | Building intelligent solutions with data
+</h3>
 
 ---
 
-### 📊 GitHub Stats
-
-<p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=DineshramG333&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" />
-</p>
-<p>
-  <img align="center" src="https://streak-stats.demolab.com/?user=DineshramG333&theme=radical&hide_border=true" alt="GitHub Streak" />
+### 💻 Core Tech Stack
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/Data_Analysis-4EAA25?style=for-the-badge&logo=databricks&logoColor=white" />
 </p>
 
 ---
 
-### 🌐 Connect with Me
-- LinkedIn: [LinkedIn Profile](in/dineshram-g-mlstudent)
-- Leetcode: [Leetcode](https://leetcode.com/u/DINESHRAM_G/)
+### 🌐 Connect With Me
+<p align="center">
+  <a href="in/dineshram-g-mlstudent">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://leetcode.com/u/DINESHRAM_G/">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+  </a>
+</p>
